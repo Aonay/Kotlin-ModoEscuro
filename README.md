@@ -6,8 +6,8 @@ Mini projeto de aplicacao de conceitos de estilizicao no Kotlin utilizandos os a
 
 Aqui estão duas imagens do projeto:
 
-![Imagem 1](https://github.com/Aonay/Kotlin-ModoEscuro/blob/main/app/src/main/res/drawable/001WhiteMode.png?raw=true)
-*Modo Claro 1*
 
-![Imagem 2](https://github.com/Aonay/Kotlin-ModoEscuro/blob/main/app/src/main/res/drawable/001DarkMode.png?raw=true)
-*Modo Escuro 2*
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/Aonay/Kotlin-ModoEscuro/blob/main/app/src/main/res/drawable/001WhiteMode.png?raw=true" width="200" />
+  <img src="https://github.com/Aonay/Kotlin-ModoEscuro/blob/main/app/src/main/res/drawable/001DarkMode.png?raw=true" width="200" />
+</div>
