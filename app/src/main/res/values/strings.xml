@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FrontEndKotlin</string>
+    <string name="txt_forget">Esqueceu sua senha?</string>
+    <string name="edt_user">Digite seu E-mail</string>
+    <string name="edt_pass">Digite sua Senha</string>
+    <string name="btn_entrar">Entrar</string>
+    <string name="loren_ipsum">Loren Ipsum</string>
+    <string name="dark_mode">Dark Mode </string>
+</resources>
